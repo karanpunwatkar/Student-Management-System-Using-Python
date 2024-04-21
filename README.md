@@ -1,6 +1,7 @@
 # Student-Management-System-Using-Python
 This Python code establishes a Student Management System (SMS) for organizing student data. It enables users to add, delete, update, and display student information through an interactive command-line interface, facilitating efficient administrative tasks.
 
+
 The code defines a student management system that allows the user to add, delete, update, and display student information. Here's a breakdown of each part of the code:
 1. Importing the sys module: This module provides access to some variables used or maintained by the Python interpreter and to functions that interact strongly with the interpreter.
 2. Defining global lists to store student information: The code defines several lists to store different pieces of student information, such as name, roll number, address, email, age, and mobile number.
