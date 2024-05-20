@@ -9,7 +9,6 @@ STUDENT_AGE = []
 STUDENT_MOBILE_NUMBER = []
 STUDENT_CLASS = []
 
-
 class STUDENT_MANAGEMENT_SYSTEM:
     @staticmethod
    
